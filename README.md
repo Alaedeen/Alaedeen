@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <div align="center" width="50">
-I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with two years of experience in in Back-End development. Familiar with Front-End development in both Angular and VueJS. Proactive self-starter with a positive mindset, a desire to learn, and a strong sense of ownership. Good grasp of professional software development best practices, including coding standards, code reviews, source control management, build processes, testing, and operations.
+I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with two years of experience in Back-End development. Familiar with Front-End development in both Angular and VueJS. Proactive self-starter with a positive mindset, a desire to learn, and a strong sense of ownership. Good grasp of professional software development best practices, including coding standards, code reviews, source control management, build processes, testing, and operations.
 
 ### Now PLaying 🎧
 
