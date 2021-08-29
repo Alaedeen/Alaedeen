@@ -3,6 +3,10 @@
 </div>
 <div align="center" width="50">
 I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with two years of experience in Back-End development. Familiar with Front-End development in both Angular and VueJS. Proactive self-starter with a positive mindset, a desire to learn, and a strong sense of ownership. Good grasp of professional software development best practices, including coding standards, code reviews, source control management, build processes, testing, and operations.
+  
+  [![Twitter: _Alaedeen_](https://img.shields.io/twitter/follow/_Alaedeen_?style=social)](https://twitter.com/_Alaedeen_)
+[![Linkedin: Alaedeen](https://img.shields.io/badge/-Alaedeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alaedeen-eloueryemmi/)](https://www.linkedin.com/in/alaedeen-eloueryemmi/)
+[![GitHub Alaedeen](https://img.shields.io/github/followers/Alaedeen?label=follow&style=social)](https://github.com/Alaedeen)
 
 ### Now PLaying 🎧
 
