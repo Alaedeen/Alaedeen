@@ -8,9 +8,6 @@ I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with
 [![Linkedin: Alaedeen](https://img.shields.io/badge/-Alaedeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alaedeen-eloueryemmi/)](https://www.linkedin.com/in/alaedeen-eloueryemmi/)
 [![GitHub Alaedeen](https://img.shields.io/github/followers/Alaedeen?label=follow&style=social)](https://github.com/Alaedeen)
 
-### Now PLaying 🎧
-
-&nbsp; <br> [![Spotify](https://alaedeen-qwo0fiiw7-alaedeeneloueryemmi-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
   
  ### Some stats 📊 😎
 <p>
@@ -25,7 +22,15 @@ I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with
 <h3>Random dev joke for you! 😅 (create your own by clicking here ↓)</h3><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23240046&textColor=%237b2cbf&aColor=%239d4edd&borderColor=%235a189a" alt="README Jokes"></a>
 
+
+### Now PLaying 🎧
+
+&nbsp; <br> [![Spotify](https://alaedeen-qwo0fiiw7-alaedeeneloueryemmi-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
 </div>
+
+
+
 
 <!--
 **Alaedeen/Alaedeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
