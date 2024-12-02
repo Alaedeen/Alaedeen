@@ -23,9 +23,6 @@ I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23240046&textColor=%237b2cbf&aColor=%239d4edd&borderColor=%235a189a" alt="README Jokes"></a>
 
 
-### Now PLaying 🎧
-
-&nbsp; <br> [![Spotify](https://alaedeen-qwo0fiiw7-alaedeeneloueryemmi-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 </div>
 
