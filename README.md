@@ -1,45 +1,70 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-<div align="center" width="50">
-I am a Tunisian 🇹🇳 dynamic, dedicated and creative software developer with two years of experience in Back-End development. Familiar with Front-End development in both Angular and VueJS. Proactive self-starter with a positive mindset, a desire to learn, and a strong sense of ownership. Good grasp of professional software development best practices, including coding standards, code reviews, source control management, build processes, testing, and operations.
-  
-  [![Twitter: _Alaedeen_](https://img.shields.io/twitter/follow/_Alaedeen_?style=social)](https://twitter.com/_Alaedeen_)
-[![Linkedin: Alaedeen](https://img.shields.io/badge/-Alaedeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alaedeen-eloueryemmi/)](https://www.linkedin.com/in/alaedeen-eloueryemmi/)
-[![GitHub Alaedeen](https://img.shields.io/github/followers/Alaedeen?label=follow&style=social)](https://github.com/Alaedeen)
+# 🧙‍♂️ Hey! I'm Alaedeen.
 
-  
- ### Some stats 📊 😎
+### *Software Engineer @ InstaDeep | GDG Sousse Organizer*
+
+Based in **Tunisia 🇹🇳**, I spend most of my time over-engineering simple solutions because "it scales better" and explaining to my computer why my architecture is superior.
+
+---
+
+### 👨‍💻 Current Status
+
+- 💼 **Professional Role:** Software Engineer @ [InstaDeep](https://www.instadeep.com/)
+- 🎓 **Education:** CS Degree from **ESSTHS** (Officially survived!)
+- 🗣️ **Community:** Organizer @ **GDG Sousse**
+- 🏗️ **Obsession:** Writing code so clean you could eat off it.
+
+---
+
+### 🧐 About Me
+
+- 🔭 **Currently working on:** Enterprise solutions using **DDD**, **CQRS**, and **Event Sourcing**.
+- 🧠 **My Engineering Philosophy:** If it's not **TDD**, is it even code?
+- 🛡️ **Patterns I Abuse:** **ROP** (Railway Oriented Programming) because I hate exceptions, and **Clean Architecture** because I hate spaghetti.
+- 👯 **Looking to collaborate on:** .NET Core projects that actually need complex domain modeling.
+
+---
+
+### 🛠️ The Arsenal
+
+**Pays the Bills (Professional Stack):**
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=Alaedeen&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alaedeen" />
-  </a>
-  <p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,docker,linux,kubernetes" />
+</p>
 
-</br>
-</br>
-<h3>Random dev joke for you! 😅 (create your own by clicking here ↓)</h3><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23240046&textColor=%237b2cbf&aColor=%239d4edd&borderColor=%235a189a" alt="README Jokes"></a>
+> *I write **C#/.NET Core** professionally. I treat `null` like a personal insult.*
 
+**The Soft Spot (My True Love):**
+<p>
+  <img src="https://skillicons.dev/icons?i=go" />
+</p>
 
+> *I cheat on C# with **Golang** on the weekends. Simple, fast, and no inheritance hell.*
 
+---
+
+### ⚡ Coding Frequency
+*(Live footage of me refactoring working code because "the variable names weren't semantic enough")*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hrRJ41JB2zlg7vQkc1/giphy.gif" width="400" alt="Coding Gif" />
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Alaedeen&label=Profile%20Views&color=0e75b6&style=flat" alt="Alaedeen's Profile Views" />
 </div>
 
+---
 
+### ⚡ Fun Facts
 
+- 🤖 **My Relationship with AI:** I treat Copilot like a junior intern—I let it suggest code, have a good laugh at it, and then rewrite it properly using **DDD**.
+- 🐧 **Sudo** is my magic word.
+- 🐛 I don't just fix bugs; I create an abstraction layer to ensure that specific bug can never happen again.
+- 🌤️ I built a [Weather App](https://github.com/Alaedeen/nodejs-weather-app) once, but I still look out the window to check if it's raining.
 
-<!--
-**Alaedeen/Alaedeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Let's connect!</i><br>
+  <a href="https://twitter.com/_Alaedeen_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alaedeen-eloueryemmi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
